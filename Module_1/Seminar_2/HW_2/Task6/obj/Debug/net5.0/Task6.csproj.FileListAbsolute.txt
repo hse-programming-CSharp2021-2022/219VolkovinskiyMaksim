@@ -1,0 +1,16 @@
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_2\HW_2\Task6\bin\Debug\net5.0\Task6.exe
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_2\HW_2\Task6\bin\Debug\net5.0\Task6.deps.json
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_2\HW_2\Task6\bin\Debug\net5.0\Task6.runtimeconfig.json
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_2\HW_2\Task6\bin\Debug\net5.0\Task6.runtimeconfig.dev.json
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_2\HW_2\Task6\bin\Debug\net5.0\Task6.dll
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_2\HW_2\Task6\bin\Debug\net5.0\ref\Task6.dll
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_2\HW_2\Task6\bin\Debug\net5.0\Task6.pdb
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_2\HW_2\Task6\obj\Debug\net5.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_2\HW_2\Task6\obj\Debug\net5.0\Task6.AssemblyInfoInputs.cache
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_2\HW_2\Task6\obj\Debug\net5.0\Task6.AssemblyInfo.cs
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_2\HW_2\Task6\obj\Debug\net5.0\Task6.csproj.CoreCompileInputs.cache
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_2\HW_2\Task6\obj\Debug\net5.0\Task6.dll
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_2\HW_2\Task6\obj\Debug\net5.0\ref\Task6.dll
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_2\HW_2\Task6\obj\Debug\net5.0\Task6.pdb
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_2\HW_2\Task6\obj\Debug\net5.0\Task6.genruntimeconfig.cache
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_2\HW_2\Task6\obj\Debug\net5.0\Task6.csproj.AssemblyReference.cache
