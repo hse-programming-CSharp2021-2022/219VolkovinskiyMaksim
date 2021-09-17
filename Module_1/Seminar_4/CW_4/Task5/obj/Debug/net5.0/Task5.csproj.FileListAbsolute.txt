@@ -1,0 +1,15 @@
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_4\CW_4\Task5\bin\Debug\net5.0\Task5.exe
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_4\CW_4\Task5\bin\Debug\net5.0\Task5.deps.json
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_4\CW_4\Task5\bin\Debug\net5.0\Task5.runtimeconfig.json
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_4\CW_4\Task5\bin\Debug\net5.0\Task5.runtimeconfig.dev.json
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_4\CW_4\Task5\bin\Debug\net5.0\Task5.dll
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_4\CW_4\Task5\bin\Debug\net5.0\ref\Task5.dll
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_4\CW_4\Task5\bin\Debug\net5.0\Task5.pdb
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_4\CW_4\Task5\obj\Debug\net5.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_4\CW_4\Task5\obj\Debug\net5.0\Task5.AssemblyInfoInputs.cache
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_4\CW_4\Task5\obj\Debug\net5.0\Task5.AssemblyInfo.cs
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_4\CW_4\Task5\obj\Debug\net5.0\Task5.csproj.CoreCompileInputs.cache
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_4\CW_4\Task5\obj\Debug\net5.0\Task5.dll
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_4\CW_4\Task5\obj\Debug\net5.0\ref\Task5.dll
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_4\CW_4\Task5\obj\Debug\net5.0\Task5.pdb
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_4\CW_4\Task5\obj\Debug\net5.0\Task5.genruntimeconfig.cache
