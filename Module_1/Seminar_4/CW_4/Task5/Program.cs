@@ -29,7 +29,6 @@ namespace Task5
                     q++;
             }
             Console.WriteLine(q);
-            Console.WriteLine(FindDels(121));
         }
     }
 }
