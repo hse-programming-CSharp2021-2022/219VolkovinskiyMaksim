@@ -14,4 +14,13 @@ class Program
         Console.WriteLine(regex.IsMatch("aaa111aaa"));
     }
 
+    void Meth(int x)
+    {
+
+    }
+    void Meth (uint x)
+    {
+
+    }
+
 }
