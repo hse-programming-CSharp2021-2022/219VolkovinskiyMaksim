@@ -1,0 +1,16 @@
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\rep\bin\Debug\net5.0\rep.exe
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\rep\bin\Debug\net5.0\rep.deps.json
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\rep\bin\Debug\net5.0\rep.runtimeconfig.json
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\rep\bin\Debug\net5.0\rep.runtimeconfig.dev.json
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\rep\bin\Debug\net5.0\rep.dll
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\rep\bin\Debug\net5.0\ref\rep.dll
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\rep\bin\Debug\net5.0\rep.pdb
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\rep\obj\Debug\net5.0\rep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\rep\obj\Debug\net5.0\rep.AssemblyInfoInputs.cache
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\rep\obj\Debug\net5.0\rep.AssemblyInfo.cs
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\rep\obj\Debug\net5.0\rep.csproj.CoreCompileInputs.cache
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\rep\obj\Debug\net5.0\rep.dll
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\rep\obj\Debug\net5.0\ref\rep.dll
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\rep\obj\Debug\net5.0\rep.pdb
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\rep\obj\Debug\net5.0\rep.genruntimeconfig.cache
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\rep\obj\Debug\net5.0\rep.csproj.AssemblyReference.cache

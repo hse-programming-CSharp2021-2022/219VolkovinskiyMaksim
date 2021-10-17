@@ -1,0 +1,16 @@
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\RegEx\bin\Debug\net5.0\RegEx.exe
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\RegEx\bin\Debug\net5.0\RegEx.deps.json
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\RegEx\bin\Debug\net5.0\RegEx.runtimeconfig.json
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\RegEx\bin\Debug\net5.0\RegEx.runtimeconfig.dev.json
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\RegEx\bin\Debug\net5.0\RegEx.dll
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\RegEx\bin\Debug\net5.0\ref\RegEx.dll
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\RegEx\bin\Debug\net5.0\RegEx.pdb
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\RegEx\obj\Debug\net5.0\RegEx.csproj.AssemblyReference.cache
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\RegEx\obj\Debug\net5.0\RegEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\RegEx\obj\Debug\net5.0\RegEx.AssemblyInfoInputs.cache
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\RegEx\obj\Debug\net5.0\RegEx.AssemblyInfo.cs
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\RegEx\obj\Debug\net5.0\RegEx.csproj.CoreCompileInputs.cache
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\RegEx\obj\Debug\net5.0\RegEx.dll
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\RegEx\obj\Debug\net5.0\ref\RegEx.dll
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\RegEx\obj\Debug\net5.0\RegEx.pdb
+C:\Users\Mvideo\Documents\GitHub\219VolkovinskiyMaksim\Module_1\Seminar_12\CW_12\RegEx\obj\Debug\net5.0\RegEx.genruntimeconfig.cache
