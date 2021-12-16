@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gzDTpUBevddXLp+48AAtR8ahva4NoQ2Ek1DhoJun/i4syeFNj2h5ooPQ/ecAhaOlPmhRIwvMZFb7l3ZkK8eCpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mvideo\\Documents\\GitHub\\219VolkovinskiyMaksim\\Module_2\\Seminar_3\\HW\\Task1\\Task1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mvideo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

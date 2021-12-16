@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0CBDPXAiogcUyAe+K/gkKwVn1Ai434uySKujumZ383r6jnQjAyDaHOs+9/hay9kYvw4/CJYzTmXV2wuV7vQVHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mvideo\\Documents\\GitHub\\219VolkovinskiyMaksim\\Module_2\\Seminar_11\\CW\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mvideo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
