@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z4UP4erX7Lw3zJSJrqWqpJlXfQWHo0RR8F4XaAxIjqEQHSiAbbuNR2Ir6Ua9+JA0FGiXnoLQjCRTyiIeV3SyyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mvideo\\Documents\\GitHub\\219VolkovinskiyMaksim\\Module_2\\Seminar_9\\HW\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mvideo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

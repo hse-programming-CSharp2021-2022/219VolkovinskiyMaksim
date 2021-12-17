@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c96623a7-44fa-4dbb-9bf6-52c6cc4d47f5": {
+      "ProjectGuid": "c96623a7-44fa-4dbb-9bf6-52c6cc4d47f5",
+      "DisplayName": "Task1",
+      "ColorIndex": 0
+    },
+    "238950d5-b460-4c6b-8dae-78f53345df90": {
+      "ProjectGuid": "238950d5-b460-4c6b-8dae-78f53345df90",
+      "DisplayName": "WinFormsApp1",
+      "ColorIndex": 1
+    },
+    "1ae5ed22-f427-492d-8f49-4ad096b01e9f": {
+      "ProjectGuid": "1ae5ed22-f427-492d-8f49-4ad096b01e9f",
+      "DisplayName": "WinFormsApp2",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
