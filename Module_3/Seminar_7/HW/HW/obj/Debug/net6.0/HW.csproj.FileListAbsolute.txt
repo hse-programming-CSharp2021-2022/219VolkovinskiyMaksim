@@ -1,0 +1,15 @@
+/Users/nktrtmv/Desktop/HW/HW/bin/Debug/net6.0/HW
+/Users/nktrtmv/Desktop/HW/HW/bin/Debug/net6.0/HW.deps.json
+/Users/nktrtmv/Desktop/HW/HW/bin/Debug/net6.0/HW.runtimeconfig.json
+/Users/nktrtmv/Desktop/HW/HW/bin/Debug/net6.0/HW.dll
+/Users/nktrtmv/Desktop/HW/HW/bin/Debug/net6.0/ref/HW.dll
+/Users/nktrtmv/Desktop/HW/HW/bin/Debug/net6.0/HW.pdb
+/Users/nktrtmv/Desktop/HW/HW/obj/Debug/net6.0/HW.csproj.AssemblyReference.cache
+/Users/nktrtmv/Desktop/HW/HW/obj/Debug/net6.0/HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nktrtmv/Desktop/HW/HW/obj/Debug/net6.0/HW.AssemblyInfoInputs.cache
+/Users/nktrtmv/Desktop/HW/HW/obj/Debug/net6.0/HW.AssemblyInfo.cs
+/Users/nktrtmv/Desktop/HW/HW/obj/Debug/net6.0/HW.csproj.CoreCompileInputs.cache
+/Users/nktrtmv/Desktop/HW/HW/obj/Debug/net6.0/HW.dll
+/Users/nktrtmv/Desktop/HW/HW/obj/Debug/net6.0/ref/HW.dll
+/Users/nktrtmv/Desktop/HW/HW/obj/Debug/net6.0/HW.pdb
+/Users/nktrtmv/Desktop/HW/HW/obj/Debug/net6.0/HW.genruntimeconfig.cache

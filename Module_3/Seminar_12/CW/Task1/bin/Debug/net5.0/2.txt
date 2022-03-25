@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ArrayOfGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Group>
+    <Id>219</Id>
+    <Students>
+      <Student>
+        <Course>1</Course>
+        <Surname>Артэмаф</Surname>
+      </Student>
+      <Student>
+        <Course>3</Course>
+        <Surname>3-ий раз поступил на ПИ</Surname>
+      </Student>
+    </Students>
+  </Group>
+  <Group>
+    <Id>218</Id>
+    <Students>
+      <Student>
+        <Course>1</Course>
+        <Surname>Саня саанечка</Surname>
+      </Student>
+      <Student>
+        <Course>1</Course>
+        <Surname>АНДРЕЙ ГРЕЧКА</Surname>
+      </Student>
+    </Students>
+  </Group>
+</ArrayOfGroup>

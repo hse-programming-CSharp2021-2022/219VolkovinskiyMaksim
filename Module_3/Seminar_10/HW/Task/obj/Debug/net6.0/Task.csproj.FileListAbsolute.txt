@@ -1,0 +1,15 @@
+/Users/nktrtmv/Desktop/HW/Task/bin/Debug/net6.0/Task
+/Users/nktrtmv/Desktop/HW/Task/bin/Debug/net6.0/Task.deps.json
+/Users/nktrtmv/Desktop/HW/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/nktrtmv/Desktop/HW/Task/bin/Debug/net6.0/Task.dll
+/Users/nktrtmv/Desktop/HW/Task/bin/Debug/net6.0/ref/Task.dll
+/Users/nktrtmv/Desktop/HW/Task/bin/Debug/net6.0/Task.pdb
+/Users/nktrtmv/Desktop/HW/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/nktrtmv/Desktop/HW/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nktrtmv/Desktop/HW/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/nktrtmv/Desktop/HW/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/nktrtmv/Desktop/HW/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/nktrtmv/Desktop/HW/Task/obj/Debug/net6.0/Task.dll
+/Users/nktrtmv/Desktop/HW/Task/obj/Debug/net6.0/ref/Task.dll
+/Users/nktrtmv/Desktop/HW/Task/obj/Debug/net6.0/Task.pdb
+/Users/nktrtmv/Desktop/HW/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache

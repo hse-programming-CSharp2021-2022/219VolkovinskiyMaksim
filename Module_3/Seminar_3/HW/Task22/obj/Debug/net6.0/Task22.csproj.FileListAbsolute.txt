@@ -1,0 +1,15 @@
+/Users/nktrtmv/Desktop/HW/Task22/bin/Debug/net6.0/Task22
+/Users/nktrtmv/Desktop/HW/Task22/bin/Debug/net6.0/Task22.deps.json
+/Users/nktrtmv/Desktop/HW/Task22/bin/Debug/net6.0/Task22.runtimeconfig.json
+/Users/nktrtmv/Desktop/HW/Task22/bin/Debug/net6.0/Task22.dll
+/Users/nktrtmv/Desktop/HW/Task22/bin/Debug/net6.0/ref/Task22.dll
+/Users/nktrtmv/Desktop/HW/Task22/bin/Debug/net6.0/Task22.pdb
+/Users/nktrtmv/Desktop/HW/Task22/obj/Debug/net6.0/Task22.csproj.AssemblyReference.cache
+/Users/nktrtmv/Desktop/HW/Task22/obj/Debug/net6.0/Task22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nktrtmv/Desktop/HW/Task22/obj/Debug/net6.0/Task22.AssemblyInfoInputs.cache
+/Users/nktrtmv/Desktop/HW/Task22/obj/Debug/net6.0/Task22.AssemblyInfo.cs
+/Users/nktrtmv/Desktop/HW/Task22/obj/Debug/net6.0/Task22.csproj.CoreCompileInputs.cache
+/Users/nktrtmv/Desktop/HW/Task22/obj/Debug/net6.0/Task22.dll
+/Users/nktrtmv/Desktop/HW/Task22/obj/Debug/net6.0/ref/Task22.dll
+/Users/nktrtmv/Desktop/HW/Task22/obj/Debug/net6.0/Task22.pdb
+/Users/nktrtmv/Desktop/HW/Task22/obj/Debug/net6.0/Task22.genruntimeconfig.cache

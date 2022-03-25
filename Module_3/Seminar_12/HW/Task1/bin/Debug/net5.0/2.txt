@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<ArrayOfUniversity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <University>
+    <Departments>
+      <Department>
+        <Employees>
+          <Professor>
+            <Name>Леви</Name>
+            <Age>21</Age>
+            <Post>Младший лейтенант</Post>
+          </Professor>
+          <Professor>
+            <Name>Арима</Name>
+            <Age>993</Age>
+            <Post>Убийца гулей</Post>
+          </Professor>
+        </Employees>
+        <Name>Спорт</Name>
+      </Department>
+      <Department>
+        <Employees>
+          <Professor>
+            <Name>Киллуа</Name>
+            <Age>13</Age>
+            <Post>Электрик</Post>
+          </Professor>
+          <Professor>
+            <Name>Аомине Дайки</Name>
+            <Age>16</Age>
+            <Post>Баскетболист</Post>
+          </Professor>
+        </Employees>
+        <Name>Философия дединсайдиков</Name>
+      </Department>
+    </Departments>
+    <Name>Высшая Школа Анархии</Name>
+  </University>
+  <University>
+    <Departments>
+      <Department>
+        <Employees>
+          <Professor>
+            <Name>Киллуа</Name>
+            <Age>13</Age>
+            <Post>Электрик</Post>
+          </Professor>
+          <Professor>
+            <Name>Аомине Дайки</Name>
+            <Age>16</Age>
+            <Post>Баскетболист</Post>
+          </Professor>
+        </Employees>
+        <Name>Философия дединсайдиков</Name>
+      </Department>
+      <Department>
+        <Employees>
+          <Professor>
+            <Name>Саске</Name>
+            <Age>17</Age>
+            <Post>Братоубийца</Post>
+          </Professor>
+          <Professor>
+            <Name>Цунаде</Name>
+            <Age>228</Age>
+            <Post>Госпожа 5ая</Post>
+          </Professor>
+        </Employees>
+        <Name>История</Name>
+      </Department>
+    </Departments>
+    <Name>Московский Государственный ШлакБАУМ</Name>
+  </University>
+</ArrayOfUniversity>
